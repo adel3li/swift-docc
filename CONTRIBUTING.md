@@ -16,7 +16,7 @@ reporting or screening bugs, and writing documentation.
 No matter how you want to get involved,
 we ask that you first learn what’s expected of anyone who participates in
 the project by reading the [Swift Community Guidelines](https://swift.org/community/)
-as well as our [Code of Conduct](/CODE_OF_CONDUCT.md).
+as well as our [Code of Conduct](https://www.swift.org/code-of-conduct/).
 
 This document focuses on how to contribute code and documentation to
 this repository.
